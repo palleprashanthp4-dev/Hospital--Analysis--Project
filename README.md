@@ -1,6 +1,8 @@
-<p align="center">
- *** 🏥 Hospital Data Dashboard — README ***
-</p>
+<div align="center" style="background-color:skyblue; padding:15px; border-radius:10px;">
+  <p style="color:black; font-style:italic; font-size:22px;">
+    🏥 Hospital Data Dashboard — README
+  </p>
+</div>
  A multi-page analytical dashboard built across three views: **Overview**, **Clinical Deep-Dive**, and **Predictive Analytics & Forecasts**. Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
 
 ---
