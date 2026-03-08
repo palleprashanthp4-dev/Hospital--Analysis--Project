@@ -4,7 +4,7 @@
 <tr>
 <td bgcolor="skyblue" align="center">
 
-<i><b>🏥 Hospital Data Dashboard — README</b></i>
+<i><b>🏥 Hospital Data Dashboard — READM</b></i>
 
 </td>
 </tr>
