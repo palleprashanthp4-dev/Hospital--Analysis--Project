@@ -10,7 +10,7 @@
 ![Overview Dashboard](https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project/blob/main/output-img/hospital_page1_overview.png)
 
 ### Dashboard 2 — Clinical Deep-Dive
-![Clinical Deep-Dive](./1772952987326_image.png)
+![Clinical Deep-Dive](https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project/blob/main/output-img/hospital_page2_clinical.png)
 
 ### Dashboard 3 — Predictive Analytics & Forecasts
 ![Predictive Analytics](./1772953001827_image.png)
