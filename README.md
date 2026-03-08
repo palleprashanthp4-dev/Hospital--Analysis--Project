@@ -7,7 +7,7 @@
 ## 📸 Dashboard Screenshots
 
 ### Dashboard 1 — Overview
-![Overview Dashboard](./1772952969248_image.png)
+![Overview Dashboard](https://github.com/palleprashanthp4-dev/Hospital--Analysis--Project/blob/main/output-img/hospital_page1_overview.png)
 
 ### Dashboard 2 — Clinical Deep-Dive
 ![Clinical Deep-Dive](./1772952987326_image.png)
