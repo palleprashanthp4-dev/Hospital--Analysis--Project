@@ -18,7 +18,7 @@ A multi-page analytical dashboard built across three views:
 <mark style="background-color:pink;">Predictive Analytics &amp; Forecasts</mark>. 
 Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
 </p>
----
+
 
 ## 📸 Dashboard Screenshots
 
