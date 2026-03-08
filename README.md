@@ -11,8 +11,11 @@
 </table>
 
 </p>
- A multi-page analytical dashboard built across three views: **Overview**, **Clinical Deep-Dive**, and **Predictive Analytics & Forecasts**. Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
-
+ <p>
+A multi-page analytical dashboard built across three views: 
+<b>Overview</b>, <b>Clinical Deep-Dive</b>, and <b>Predictive Analytics &amp; Forecasts</b>. 
+Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
+</p>
 ---
 
 ## 📸 Dashboard Screenshots
