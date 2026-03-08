@@ -1,7 +1,7 @@
 <p align="center">
-# ***🏥 Hospital Data Dashboard — README***
+ ***🏥 Hospital Data Dashboard — README***
 </p>
-> A multi-page analytical dashboard built across three views: **Overview**, **Clinical Deep-Dive**, and **Predictive Analytics & Forecasts**. Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
+ A multi-page analytical dashboard built across three views: **Overview**, **Clinical Deep-Dive**, and **Predictive Analytics & Forecasts**. Together they tell the full story of 984 patients across diseases, demographics, costs, and future projections.
 
 ---
 
