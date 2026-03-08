@@ -2,9 +2,9 @@
 
 <table>
 <tr>
-<td bgcolor="skyblue" align="center">
+<td bgcolor="black" align="center">
 
-<i><b>🏥 Hospital Data Dashboard — READM</b></i>
+<font color="white"><i><b>🏥 Hospital Data Dashboard — README</b></i></font>
 
 </td>
 </tr>
